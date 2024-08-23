@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './profile-card.component.scss'
 })
 export class ProfileCardComponent {
+  public nickname: string = "Райан Гослинг";
 
 }
