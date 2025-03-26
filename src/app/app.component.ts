@@ -11,4 +11,5 @@ import {ProfileCardComponent} from './common-ui/profile-card/profile-card.compon
 })
 export class AppComponent {
   title = 'An18';
+
 }

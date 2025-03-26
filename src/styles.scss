@@ -1,4 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import "fonts";
+
 :root {
   --dark-color: #000000;
   --light-color: #fff;
@@ -8,4 +10,7 @@ html,
 body {
   background-color: var(--dark-color);
   color: var(--light-color);
+  font-family: "JetBrains Mono", sans-serif;
 }
+
+
